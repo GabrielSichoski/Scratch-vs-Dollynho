@@ -1,8 +1,6 @@
-# Project CS50 - Scratch vs Dollynho
+# CS50 Project - Scratch vs Dollynho
 
 ## English
-
-# CS50 Project - Scratch vs Dollynho
 
 ## Description
 
